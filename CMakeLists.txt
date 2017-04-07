@@ -3,5 +3,5 @@ project(accelerated)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES src/0.cpp src/1.cpp src/run.cpp src/0.h src/1.h)
+set(SOURCE_FILES src/chapter-0.cpp src/chapter-1.cpp src/run.cpp src/chapter-0.h src/chapter-1.h src/chapter-2.cpp src/chapter-2.h)
 add_executable(accelerated ${SOURCE_FILES})

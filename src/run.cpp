@@ -1,10 +1,13 @@
 //
 // Created by coastal on 4/7/17.
 //
-# include "0.h"
-# include "1.h"
+# include "chapter-0.h"
+# include "chapter-1.h"
+# include "chapter-2.h"
 
 int main()
 {
-    nameInOut();
+    //testsForZero();
+    //testsForOne();
+    testsForTwo();
 }
