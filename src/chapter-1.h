@@ -5,10 +5,6 @@
 #ifndef ACCELERATED_1_H
 #define ACCELERATED_1_H
 
-int nameInOut();
-int framedName();
-int validProgram();
-int fixedInvalidProgram();
 int testsForOne();
 
 #endif //ACCELERATED_1_H
